@@ -1,17 +1,16 @@
- # New Versionn is cominng Soon
-
+# Depricated
  * @package PHPmongoDB
  * @version 1.0.0
  * @link http://www.phpmongodb.org
-==============================================================================================================
+===============================================
  Introduction
-==============================================================================================================
+===============================================
  A Tool available for administrative work of MongoDB over Web. It is PHPmongoDB. Available here link.
  For any support and suggestions, You can write us to phpmongodb@gmail.com. Freely available!!! 
 
-==============================================================================================================
+===============================================
 Installation
-==============================================================================================================
+===============================================
 1. Install PHP Webserver like APACHE, NGINX, HTTPD if you don't have one
 2. Install MongoDB PHP driver (http://us.php.net/manual/en/mongo.installation.php)
 3. Download the package from https://github.com/phpmongodb/phpmongodb or git clone https://github.com/phpmongodb/phpmongodb.git
@@ -29,9 +28,9 @@ Installation
 7. Login with admin username and password, which is set "admin" and "admin" as default
 8. Start Playing with your MongoDBs!
 
-==============================================================================================================
+===============================================
 Upgradation 
-==============================================================================================================
+===============================================
 1.Copy all files excluding config.php to your old version directory
 2.Done!
 
